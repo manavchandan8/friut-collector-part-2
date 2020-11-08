@@ -1,1 +1,2 @@
-# friut-collector-part-2
+# C40-Project
+ Debugged fruit collector 2
